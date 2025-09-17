@@ -1,0 +1,28 @@
+body {
+    background-color: slateblue;
+}
+
+header nav ul {
+    list-style: none;
+}
+
+header nav ul li a {
+    color: black;
+    text-decoration: none;
+}
+
+img {
+    width: 400px;
+}
+
+main {
+    text-align: center;
+}
+
+section {
+    text-align: center;
+}
+
+footer {
+    text-align: center;
+}
